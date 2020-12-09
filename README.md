@@ -1,7 +1,7 @@
 # django-todo
 A simple todo app built with django
 
-![todo App](https://github.com/WesamSalahGoda/cs50-project/blob/develop/app1.png?raw=true)
+![todo App](https://github.com/WesamSalahGoda/cs50-project/blob/main/app1.png?raw=true)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
